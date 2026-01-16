@@ -1,0 +1,2 @@
+Path to follow to use csv file in ' 5. Feature Engineering ' folders:
+df = pd.read_csv('../5.1 DATA/filename.csv')
