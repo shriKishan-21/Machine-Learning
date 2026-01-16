@@ -1,7 +1,7 @@
 # 🤖 Machine Learning Repository
 
 Welcome to my **Machine Learning Repository**!  
-This repository contains implementations of various **Machine Learning algorithms, concepts, and projects** developed during my learning journey in **Data Science and Artificial Intelligence**.
+This repository contains implementations of various **Machine Learning algorithms, concepts, and understanding** developed during my learning journey in **Data Science and Artificial Intelligence**.
 
 ---
 
